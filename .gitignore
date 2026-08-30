@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Large datasets
+*.dat
+*.dat.zip
+*.pkl
+*.pickle
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
